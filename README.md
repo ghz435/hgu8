@@ -1,5 +1,5 @@
 # hgu8
 Just repository
 
-HI,
+Hi,
 This is Huizhong Gu in OPS435NAA
